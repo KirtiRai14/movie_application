@@ -1,15 +1,15 @@
 # movie_ticket
 
-1. Name and email id of team member:-
+1- Name and email id of team member:-
 Karan singh: ks853033@bbdec.ac.in,
 Kirti Rai: kirtirai23570@gmail.com,
 Sabiha Khatoon: khatoonsabiha635@gmail.com,
 Kunwar Rudra Pratap Singh: Rudrarudra123145@gmail.com,
 Mohammad Aqib: bbd.aqib.lko@gmail.com
 
-2. Technologies used: PHP
+2- Technologies used: PHP
  
-5. Steps to execute the solution:-
+5- Steps to execute the solution:-
 Online Movie ticket booking system php project
 Steps to execute the program
 1. Install Xampp Stack
